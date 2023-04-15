@@ -1,0 +1,242 @@
+.block_1._active .container .logo{
+    transform: scale(1);
+    opacity: 1;
+}
+
+
+.block_1._active .container .text_heading{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+
+.block_1._active .container .block_schedule{
+    opacity: 1;
+}
+
+
+
+.block_1._active .container .block_buttons .block_button_left{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_1._active .container .block_buttons .block_button_right{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+
+
+.block_1._active .container .block_href{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_1._active .container .block_pointer{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+
+
+.block_2._active .container .block_text_heading .text_heading{
+    pointer-events: painted;
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_2._active .container .block_lists{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+    .block_2._active .container .block_lists .block_list .block_img_logo{
+        transform: rotate(0deg);
+        opacity: 1;
+    }
+
+
+
+.block_3._active .container .text_heading{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_3._active .container .block_href{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_3._active .container .block_buttons{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+
+
+.block_4._active .container .block_info_1 .block_img{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_4._active .container .block_info_1 .block_information{
+    transform: scale(1);
+    opacity: 1;
+}
+
+.block_4._active .container .block_info_2 .block_img{
+    transform: translate(8.5%, -15%);
+    opacity: 1;
+}
+
+.block_4._active .container .block_info_2 .block_information{
+    transform: scale(1);
+    opacity: 1;
+}
+
+
+
+.block_5._active .container .block_text_heading .text_heading{
+    pointer-events: painted;
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_5._active .container .block_lists{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+    .block_5._active .container .block_lists .block_list .block_text_heading{
+        transform: scale(1);
+        opacity: 1;
+    }
+
+
+
+.block_6._active  .container .block_imgs .block_up{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_6._active  .container .block_imgs .block_down{
+    pointer-events: painted;
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+
+.block_6._active .container .block_left{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_6._active .container .block_right{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+
+
+.block_7._active .container .text_heading{
+    pointer-events: painted;
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_7._active .container .block_text{
+    transform: scale(1);
+    opacity: 1;
+}
+
+.block_7._active .container .block_lists{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+
+
+.block_8._active .container .text_heading{
+    pointer-events: painted;
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_8._active .container .block_imgs .block_img{
+    transform: scale(1);
+    opacity: 1;
+}
+
+.block_8._active .container .block_imgs .block_img .block_button{
+    transform: rotate(0deg);
+    opacity: 1;
+}
+
+.block_8._active .container .block_href{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+
+
+.block_9._active .container .block_img_instagram{
+    transform: scale(1) rotate(0deg);
+    opacity: 1;
+}
+
+.block_9._active .container .text_heading{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_9._active .container .block_instagram .block_instagram_text{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_9._active .container .block_href{
+    transform: scale(1);
+    opacity: 1;
+}
+
+
+
+.block_10._active .container .block_texts{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_10._active .container .block_imgs .block_imgs_container .block_img{
+    transform: rotate(0) scale(1);
+    opacity: 1;
+}
+
+
+
+.block_11._active .container .block_img{
+    transform: scale(1) rotate(0deg);
+    opacity: 1;
+}
+
+.block_11._active .container .text_heading{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_11._active .container .block_info .block_info_text{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+.block_11._active .container .block_href{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
+
+
+
+.block_12._active .container .block_contact_us{
+    transform: translate(0px, 0px);
+    opacity: 1;
+}
